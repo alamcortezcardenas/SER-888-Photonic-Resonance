@@ -1,4 +1,4 @@
-## 🌀 PANEL DE CONTROL S.E.R.
+## 🌀 PANEL DE CONTROL S.E.R.  https://orcid.org/0009-0003-7265-6607
 Este protocolo opera bajo la frecuencia de la soberanía absoluta.
 
 ```text
